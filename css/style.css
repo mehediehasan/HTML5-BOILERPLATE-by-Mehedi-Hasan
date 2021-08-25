@@ -1,0 +1,9 @@
+/* Custom font face importing */
+@font-face {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* Global Css Declaration */
+*{
+    font-family: 'PT Sans', sans-serif;
+}
